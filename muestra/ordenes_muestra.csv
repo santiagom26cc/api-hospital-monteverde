@@ -1,0 +1,26 @@
+id_orden,id_equipo,servicio_reporta,tipo_mantenimiento,prioridad,fecha_programada,fecha_solicitud,fecha_atencion,fecha_cierre,estado,equipo_fuera_servicio,falla_reportada,causa,tipo_ejecutor,responsable,costo_repuestos,costo_servicio_externo,observaciones,canal_registro,fecha_registro
+OT-26-01080,EQ-0512,UCI,Preventivo,,2026-10-14T00:00:00.000,2026-10-07T07:00:00.000,2026-11-03T07:45:00.000,2026-11-03T08:56:00.000,Cerrada,Sí,,,Interno,TEC-03,0,0,,Web,2026-10-07T07:00:51.000
+OT-26-00973,EQ-0081,UCI,Preventivo,,2026-10-01T00:00:00.000,2026-09-24T07:00:00.000,2026-10-01T12:00:00.000,2026-10-01T15:01:00.000,Cerrada,Sí,,,Externo,MantenBio SAS,450000,650000,Preventivo según protocolo del fabricante,Web,2026-09-24T07:00:26.000
+OT-26-00304,EQ-0279,Hospitalización,Preventivo,,2026-06-22T00:00:00.000,2026-06-15T07:00:00.000,2026-06-22T15:15:00.000,2026-06-22T16:17:00.000,Cerrada,Sí,,,Interno,TEC-04,0,0,,Web,2026-06-15T07:00:36.000
+OT-26-01179,EQ-0165,Piso 3 - Hospitalización,PREVENTIVO,,28/10/2026,21/10/2026 07:00,10/11/2026 11:15,10/11/2026 12:27,Cerrada,SI,,,Interno,TEC-05,0,0,,Planilla,26/10/2026
+OT-26-00416,EQ-0668,HOSPITALIZACION,PREVENTIVO,,06/07/2026,29/06/2026 07:00,17/08/2026 12:00,17/08/2026 12:53,Cerrada,SI,,,Interno,TEC-06,0,0,,Planilla,06/07/2026
+OT-26-00074,EQ-0650,Urgencias,PREVENTIVO,,20/05/2026,13/05/2026 07:00,20/05/2026 08:15,20/05/2026 09:13,Cerrada,SI,,,Interno,TEC-05,0,0,,Planilla,18/05/2026
+OT-26-00114,EQ-0493,Urgencias,Preventivo,,2026-05-25T00:00:00.000,2026-05-18T07:00:00.000,2026-05-27T11:45:00.000,2026-05-27T12:38:00.000,Cerrada,Sí,,,Interno,TEC-03,0,0,,Web,2026-05-18T07:00:49.000
+OT-26-00078,EQ-0631,Hosp.,CORRECTIVO,1,,13/05/2026 19:13,14/05/2026 02:37,14/05/2026 05:00,Cerrada,SI,Alarma sin causa,Mal uso,Interno,TEC-06,$220.000,0,Mal uso del accesorio; se capacita al servicio,Planilla,18/05/2026
+OT-26-00085,EQ-0428,Piso 3 - Hospitalización,CORRECTIVO,2,,14/05/2026 09:48,,14/05/2026 12:18,Cerrada,SI,Sensor dañado,Sin falla encontrada,Interno,TEC-06,0,0,Se verifica con simulador: sin falla,Planilla,18/05/2026
+OT-26-01266,EQ-0541,Hosp.,PREVENTIVO,,11/11/2026,04/11/2026 07:00,11/11/2026 15:30,11/11/2026 16:31,Cerrada,si,,,Interno,TEC-06,0,0,Preventivo según protocolo del fabricante,Planilla,09/11/2026
+OT-26-00064,EQ-0487,Urgencias,Preventivo,,2026-05-18T00:00:00.000,2026-05-11T07:00:00.000,2026-05-18T10:15:00.000,2026-05-18T11:23:00.000,Cerrada,Sí,,,Interno,TEC-04,0,0,,Web,2026-05-11T07:00:52.000
+OT-26-00633,EQ-0315,UCI,Correctivo,Alta,,2026-08-04T13:18:00.000,2026-08-04T15:39:00.000,2026-08-04T20:09:00.000,Cerrada,Sí,Falla de batería,Desgaste,Interno,TEC-03,300000,0,Se reemplaza la pieza desgastada y se verifica funcionamiento,Web,2026-08-04T13:18:48.000
+OT-26-00164,EQ-0344,Urgencias,Preventivo,,2026-06-02T00:00:00.000,2026-05-26T07:00:00.000,2026-06-02T09:00:00.000,2026-06-02T09:58:00.000,Cerrada,Sí,,,Interno,TEC-03,0,0,Preventivo según protocolo del fabricante,Web,2026-05-26T07:00:38.000
+OT-26-00475,EQ-0108,UCI,Preventivo,,2026-07-16T00:00:00.000,2026-07-09T07:00:00.000,2026-07-17T07:30:00.000,2026-07-17T08:26:00.000,Cerrada,Sí,,,Interno,TEC-01,0,0,,Web,2026-07-09T07:00:00.000
+OT-26-00505,EQ-0359,Urgencias,Preventivo,,2026-07-20T00:00:00.000,2026-07-13T07:00:00.000,2026-07-21T08:00:00.000,2026-07-21T08:58:00.000,Cerrada,Sí,,,Interno,TEC-02,0,0,,Web,2026-07-13T07:00:16.000
+OT-26-01173,EQ-0396,Urgencias,Preventivo,,2026-10-27T00:00:00.000,2026-10-20T07:00:00.000,2026-10-26T15:00:00.000,2026-10-26T16:02:00.000,Cerrada,Sí,,,Interno,TEC-03,0,0,Preventivo según protocolo del fabricante,Web,2026-10-20T07:00:42.000
+OT-26-01190,EQ-0551,UCI,Correctivo,Alta,,2026-10-22T11:11:00.000,2026-10-22T16:04:00.000,2026-10-22T18:51:00.000,Cerrada,Sí,Pantalla no enciende,Desgaste,Interno,TEC-02,443000,0,,Web,2026-10-22T11:11:25.000
+OT-26-01150,EQ-0045,UCI,Correctivo,Alta,,2026-10-15T21:03:00.000,2026-10-17T07:00:00.000,2026-10-17T12:05:00.000,Cerrada,Sí,Falla de sensor de flujo,Accesorio,Externo,MantenBio SAS,2939000,374000,,Web,2026-10-15T21:03:27.000
+OT-26-01214,EQ-0623,Hospitalización,Correctivo,Media,,2026-10-26T10:06:00.000,2026-10-26T23:12:00.000,2026-10-27T04:49:00.000,Cerrada,Sí,Error de tira,Desgaste,Interno,TEC-04,0,0,Desgaste por uso; se reemplaza y se prueba con simulador,Web,2026-10-26T10:06:15.000
+OT-26-00136,EQ-0413,Urgencias,Preventivo,,2026-05-29T00:00:00.000,2026-05-22T07:00:00.000,2026-05-27T09:00:00.000,2026-05-27T10:10:00.000,Cerrada,Sí,,,Interno,TEC-03,0,0,,Web,2026-05-22T07:00:57.000
+OT-26-01313,EQ-0015,Hospitalizacion,PREVENTIVO,,20/11/2026,13/11/2026 07:00,,,Abierta,SI,,,,,,,,Planilla,16/11/2026
+OT-26-01327,EQ-0419,UCI,Preventivo,,2026-11-23T00:00:00.000,2026-11-16T07:00:00.000,,,Abierta,Sí,,,,,,,,Web,2026-11-16T07:00:51.000
+OT-26-01302,EQ-0416,Urgencias,PREVENTIVO,,18/11/2026,11/11/2026 07:00,,,Abierta,si,,,,,,,,Planilla,16/11/2026
+OT-26-01330,EQ-0247,Urgencias,Correctivo,Media,,2026-11-16T13:10:00.000,2026-11-16T21:48:00.000,,En proceso,Sí,Error de tira,,Interno,TEC-03,,,,Web,2026-11-16T13:10:35.000
+OT-26-01308,EQ-0174,Hosp.,CORRECTIVO,1,,11/11/2026 20:33,12/11/2026 02:42,12/11/2026 06:21,Cerrada,no,Error de sensor de aire,Accesorio,Interno,TEC-06,0,0,Accesorio en mal estado; se cambia del stock del servicio,Planilla,16/11/2026
