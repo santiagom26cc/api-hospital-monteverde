@@ -45,9 +45,9 @@ CAOS = os.environ.get("API_CAOS", "").strip() not in ("", "0")
 LOG = os.environ.get("API_LOG", "").strip() not in ("", "0")
 SISTEMA = [":id", ":created_at", ":updated_at"]
 
-ARCHIVO = AQUI / "datos" / "hospital.json.gz"
-if not ARCHIVO.exists():
-    sys.exit(f"No encuentro {ARCHIVO}. Actualiza la API: cd ~/api-hospital && git pull")
+ARCHIVO = next((p for p in (AQUI / "hospital.json.gz", AQUI / "datos" / "hospital.json.gz") if p.exists()), None)
+if ARCHIVO is None:
+    sys.exit(f"No encuentro hospital.json.gz en {AQUI}. Actualiza la API: cd ~/api-hospital && git pull")
 with gzip.open(ARCHIVO, "rt", encoding="utf-8") as _f:
     DATOS = json.load(_f)
 _cache = {}
