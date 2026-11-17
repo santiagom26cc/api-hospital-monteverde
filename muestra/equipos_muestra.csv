@@ -1,0 +1,13 @@
+id_equipo,tipo_equipo,marca,modelo,serie,sede,servicio,fecha_compra,valor_compra,criticidad,soporte_vital,frecuencia_preventivo_meses,vida_util_anios,estado,fecha_baja,vigente_desde,vigente_hasta
+EQ-0272,Bomba de infusión,Nexvital,NX-Flow 2,NE607941,Sede Central,Hospitalización,2019-06-09T00:00:00.000,11900000,Alta,No,6,8,Activo,,2020-01-01T00:00:00.000,
+EQ-0432,Glucómetro,Lumenca,GL-10,LU145388,Sede Central,UCI,2021-05-01T00:00:00.000,580000,Media,No,3,5,Activo,,2021-05-01T00:00:00.000,
+EQ-0449,Glucómetro,Vitaro,VT-Gluco,VI424481,Sede Norte,Hospitalización,22/07/2021,370000,Media,No,3,5,Activo,,2021-07-22T00:00:00.000,
+EQ-0269,Pulsioxímetro,Quirova,Q-Ox,QU972487,Sede Central,Hospitalización,2019-06-02T00:00:00.000,940000,Media,No,12,5,Activo,,2020-01-01T00:00:00.000,
+EQ-0653,Monitor de signos vitales,Andesmed,AM-M12,AN182703,Central,UCI,2025-07-25T00:00:00.000,20940000,Alta,No,6,8,Activo,,2025-07-25T00:00:00.000,
+EQ-0377,Bomba de infusión,Andesmed,AM-I300,AN481062,Sede Central,Hospitalización,2020-05-03T00:00:00.000,9750000,Alta,No,6,8,Activo,,2020-05-03T00:00:00.000,
+EQ-0523,Bomba de infusión,Andesmed,AM-I300,AN171842,Sede Central,Hospitalización,2022-10-06T00:00:00.000,13660000,Alta,No,6,8,Activo,,2022-10-06T00:00:00.000,
+EQ-0082,Monitor Signos Vitales,Vitaro,VT-Mon 7,VI417376,Sede Central,UCI,2015-12-17T00:00:00.000,13270000,Alta,No,6,8,Activo,,2020-01-01T00:00:00.000,
+EQ-0139,Pulsioxímetro,Quirova,Q-Ox,QU609936,Sede Norte,Hospitalización,2017-05-17T00:00:00.000,1020000,Media,No,12,5,Activo,,2020-01-01T00:00:00.000,
+EQ-0037,Bomba de infusión,Quirova,Q-Inf 5,QU962603,Sede Central,Urgencias,2014-07-18T00:00:00.000,12860000,Alta,No,6,8,Activo,,2020-01-01T00:00:00.000,
+EQ-0144,Bomba de infusión,Andesmed,AM-I300,AN265217,Sede Central,UCI,2017-07-02T00:00:00.000,9440000,Alta,No,6,8,Activo,,2020-01-01T00:00:00.000,
+EQ-0665,MONITOR DE SIGNOS VITALES,Andesmed,AM-M12,AN619602,Sede Central,Cirugía,2025-11-08T00:00:00.000,22250000,Alta,No,6,8,Activo,,2025-11-08T00:00:00.000,
