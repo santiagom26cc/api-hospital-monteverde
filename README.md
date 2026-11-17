@@ -47,6 +47,6 @@ Se consulta igual que datos.gov.co: `$select`, `$where`, `$order`, `$limit`, `$o
 | `API_CAOS=1` | Responde a veces 429 y 503, como una API con carga |
 | `API_LOG=1` | Muestra cada petición en la terminal |
 
-La carpeta `datos/` es el «sistema del hospital»: tu fuente es la API, no ese archivo.
+El archivo `hospital.json.gz` es el «sistema del hospital»: tu fuente es la API, no ese archivo.
 
 Solo usa la biblioteca estándar de Python: no hay nada que instalar.
